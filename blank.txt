@@ -1,3 +1,4 @@
 dir
 
 making a change to see how to push back to github
+and right back at ya  edit in github, resynch with a pull to my laptop
